@@ -1,0 +1,31 @@
+html{
+    font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+button{
+    width: 100%;
+    height: 5em;
+    border: none;
+    margin: 0.2em;
+    background-color: #54038E;
+    color: #C0D72F;
+    font-size: 2em;
+}
+
+button:hover{
+    background-color: #C0D72F;
+    color: #54038E;
+}
+#logo{
+    width: 100%;
+}
+#social{
+    display: block;
+    text-align: center;
+}
+#social a img{
+    display: inline block;
+    width: 32%;
+    height: auto;
+    text-align: center;
+}
