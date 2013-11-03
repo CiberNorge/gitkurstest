@@ -2,7 +2,7 @@ html{
     font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-button{
+.button{
     width: 100%;
     height: 5em;
     border: none;
@@ -12,7 +12,7 @@ button{
     font-size: 2em;
 }
 
-button:hover{
+.button:hover{
     background-color: #C0D72F;
     color: #54038E;
 }
